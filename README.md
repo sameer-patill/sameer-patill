@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm Sameer, a passionate <b>AWS Cloud & DevOps Engineer</b> with 2+ years of IT experience, always automating, deploying, and scaling cloud infrastructures 🚀.</p>
+  <p><strong>Hey there!</strong> 👋 I'm Sameer, a passionate <b>AWS Cloud & DevOps Engineer</b> always automating, deploying, and scaling cloud infrastructures 🚀.</p>
 </div>
 
 ---
@@ -21,7 +21,7 @@
 <td width="50%">
 
 ### What I Do
-- ☁️ **Cloud & DevOps Specialist**
+- ☁️ **Cloud & DevOps**
   - AWS solutions design & deployment
   - CI/CD pipelines with Jenkins & GitHub Actions
 - 🛠️ **Automation Enthusiast**
@@ -35,8 +35,8 @@
 <td width="50%">
 
 ### Quick Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-patill)
-[![GitHub](https://img.shields.io/badge/GitHub-sameerpatil15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameerpatil15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-patill/)
+[![GitHub](https://img.shields.io/badge/GitHub-sameerpatil15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameer-patill/sameer-patill)
 [![Email](https://img.shields.io/badge/Email-psameer.patil15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psameer.patil15@gmail.com)
 
 </td>
@@ -116,8 +116,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-patill)  
-[![GitHub](https://img.shields.io/badge/GitHub-sameerpatil15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameerpatil15)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-patill/)  
+[![GitHub](https://img.shields.io/badge/GitHub-sameerpatil15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameer-patill/sameer-patill)  
 [![Email](https://img.shields.io/badge/Email-psameer.patil15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psameer.patil15@gmail.com)  
 
 </div>
