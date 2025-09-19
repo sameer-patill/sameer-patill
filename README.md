@@ -1,10 +1,10 @@
-# <div align="center">☁️ **Sameer Patil**</div>
+# <div align="center">🚀**Sameer Patil**</div>
 
 <div align="center">
   
-[![AWS Cloud | DevOps | Automation | CI/CD](https://img.shields.io/badge/AWS_Cloud_%7C_DevOps_%7C_Automation_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sameerpatil15)
+[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/AWS_Cloud_%7C_DevOps_%7C_Automation_%7C_CI%2FCD-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sameerpatil15)
 
-<img src="" alt="aboutme" width="800px">
+<img src="https://github.com/sameer-patill/newbanner/blob/main/banner.png.png" alt="aboutme" width="800px">
 
 </div>
 
